@@ -20526,11 +20526,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\SantoshS4\\Downloads\\Training and Learning\\Azure Bootcamp\\NewWebApps\\Enaukri-Portal\\Pages\\Shared\\CandidateList.cshtml",
-      "TargetPath": "Pages\\Shared\\CandidateList.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\SantoshS4\\Downloads\\Training and Learning\\Azure Bootcamp\\NewWebApps\\Enaukri-Portal\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
@@ -20538,6 +20533,11 @@
     {
       "FilePath": "c:\\Users\\SantoshS4\\Downloads\\Training and Learning\\Azure Bootcamp\\NewWebApps\\Enaukri-Portal\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SantoshS4\\Downloads\\Training and Learning\\Azure Bootcamp\\NewWebApps\\Enaukri-Portal\\Pages\\CandidateList.cshtml",
+      "TargetPath": "Pages\\CandidateList.cshtml",
       "FileKind": "mvc"
     },
     {
